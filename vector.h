@@ -1,6 +1,5 @@
 //
 //  vector.h
-//  Pathfinder
 //		a generic vector implementation.
 //		takes a comparator (for _contains) and a freeing method (so vectors can destroy the elements they contain)
 //		This vector only grows, and doesn't support removal yet. I'll implement it soon.
